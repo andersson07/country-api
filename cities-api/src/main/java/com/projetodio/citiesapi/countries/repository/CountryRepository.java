@@ -1,6 +1,6 @@
-package com.projetodio.citiesapi.repository;
+package com.projetodio.citiesapi.countries.repository;
 
-import com.projetodio.citiesapi.countries.Country;
+import com.projetodio.citiesapi.countries.entities.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

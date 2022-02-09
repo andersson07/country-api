@@ -1,4 +1,4 @@
-package com.projetodio.citiesapi.countries;
+package com.projetodio.citiesapi.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
